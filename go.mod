@@ -1,4 +1,4 @@
-module gitlab.com/salam_project/package-log
+module github.com/salamsites/package-log
 
 go 1.22
 
